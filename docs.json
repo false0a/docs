@@ -27,10 +27,10 @@
       {
         "tab": "Guides",
         "pages": [
-          "scenario-writing-guide",
-          "scenario-character-integration",
+          "monetization-guide",
           "character-creation-guide",
-          "monetization-guide"
+          "scenario-character-integration",
+          "scenario-writing-guide"
         ]
       }
     ]
